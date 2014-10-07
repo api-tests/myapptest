@@ -1,1 +1,9 @@
-data:text/css;base64,aDIgew0KICBiYWNrZ3JvdW5kLWNvbG9yOiAjNjA3ZDhiOw0KICBjb2xvcjogI2ZmZmZmZjsNCiAgcGFkZGluZzogNXB4Ow0KfQ0KDQoudGl0bGUgew0KICBmb250LXNpemU6IDY1cHg7DQp9
+h2 {
+  background-color: #607d8b;
+  color: #ffffff;
+  padding: 5px;
+}
+
+.title {
+  font-size: 65px;
+}
